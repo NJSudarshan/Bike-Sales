@@ -6,5 +6,5 @@ This project explores a dataset of bike buyers to identify key purchasing patter
 
 # Key Insights
 - Married individuals with higher income and shorter commutes are more likely to buy bikes
-- Customers aged 30–50 show the highest interest
+- Customers aged 31–51 show the highest interest
 
